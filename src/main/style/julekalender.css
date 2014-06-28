@@ -1,0 +1,4 @@
+body { position:relative }
+.xmasstree { background: transparent url('/src/main/resources//christmas-tree-pics-0111.jpg') no-repeat 50% 2%; background-size:30%; position:static; height:100%; width:100%; min-height:780px;}
+.picker { margin-left:50px; margin-top:25px}
+.moremargin{ padding-top:250px; color:#A00; }

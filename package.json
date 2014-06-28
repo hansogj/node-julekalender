@@ -1,0 +1,28 @@
+{
+    "name": "node-julekalender",
+    "version": "0.0.0",
+    "description": "playing with node & picking winners of the julekalender",
+    "main": "src/main/node/julekalender.js",
+    "dependencies": {
+        "nvm": "~0.0.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node src/main/node/pickfromhat.js",
+        "dev":  "node src/main/node/pickfromhat.js dev",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/hansogj/node-julekalender.git"
+    },
+    "keywords": [
+        "julekalender",
+        "node"
+    ],
+    "author": "hansogj",
+    "license": "BSD-2-Clause",
+    "bugs": {
+        "url": "https://github.com/hansogj/node-julekalender/issues"
+    }
+}

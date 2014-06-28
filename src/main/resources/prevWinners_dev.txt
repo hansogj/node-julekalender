@@ -1,0 +1,10 @@
+30 node_modules/nvm/node_modules/mkdirp/test/umask.js 
+30  node_modules/nvm/node_modules/mkdirp/test/rel.js 
+2  node_modules/nvm/node_modules/mkdirp/test/chmod.js 
+2  node_modules/nvm/node_modules/mkdirp/test/sync.js 
+2 node_modules/nvm/package.json 
+3  node_modules/nvm/node_modules/mkdirp/test/root.js 
+3  node_modules/nvm/node_modules/mkdirp/test/race.js 
+3  node_modules/nvm/node_modules/mkdirp/test/return.js 
+18  node_modules/nvm/node_modules/mkdirp/test/clobber.js 
+28  node_modules/nvm/node_modules/mkdirp/test/perm.js 

@@ -1,0 +1,6 @@
+node_modules/nvm/node_modules/mkdirp/index.js
+ node_modules/nvm/node_modules/mkdirp/test/return_sync.js
+ node_modules/nvm/node_modules/mkdirp/test/mkdirp.js
+ node_modules/nvm/node_modules/mkdirp/test/umask_sync.js
+ node_modules/nvm/node_modules/mkdirp/package.json
+ node_modules/nvm/node_modules/mkdirp/test/perm_sync.js
